@@ -2,13 +2,9 @@
 
 ## Description du projet
 
-Ce projet a pour objectif d'analyser l'influence du prix initial et des critiques sur le nombre de joueurs actifs pour des jeux sur la plateforme Steam. L'étude repose sur une analyse de données provenant de plusieurs jeux vidéo afin d'identifier des tendances clés impactant leur popularité.
+Ce projet a pour objectif d'analyser l'influence du prix initial et des critiques sur le nombre de joueurs actifs pour des jeux sur la plateforme Steam. L'étude repose sur une analyse de données provenant de plusieurs jeux vidéo afin d'identifier des tendances clés impactant leur popularité. Ce projet a été réalisé par le Groupe 17 dans le cadre des cours de "Science des Données 2" et de "Bases de Données" à l'Université Paul Valéry, Montpellier 3.
 
 ## Auteurs
-
-Ce projet a été réalisé par l'équipe Groupe 17 dans le cadre du cours "Science des Données 2 et Bases de Données" à l'Université Paul Valéry, Montpellier 3.
-
-## Membres du groupe :
 
 ### Anthony Combes–Aguéra
 
